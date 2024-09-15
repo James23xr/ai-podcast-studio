@@ -1,3 +1,64 @@
+# AI Podcast Studio 🎙️🤖
+
+Welcome to AI Podcast Studio, the cutting-edge platform that revolutionizes podcast creation and discovery using advanced AI technologies.
+
+## 🌟 Features
+
+- **Multi-Voice Synthesis**: Create diverse and engaging audio content with our advanced text-to-speech technology.
+- **AI-Powered Image Generation**: Automatically generate unique, eye-catching cover art for your podcasts.
+- **Smart Search**: Discover new podcasts with our intelligent search functionality.
+- **Responsive Design**: Enjoy a seamless experience across all devices with our Tailwind CSS-powered UI.
+- **Secure Authentication**: Keep your content safe with Clerk-powered authentication.
+- **Scalable Backend**: Built with Convex for high performance and easy scaling.
+
+## 🚀 Technologies Used
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Convex
+- Clerk
+- OpenAI API
+- Google Cloud Text-to-Speech API
+
+## 🛠️ Setup and Installation
+
+1. Clone the repository
+   ```
+   git clone https://github.com/yourusername/ai-podcast-studio.git
+   ```
+
+2. Install dependencies
+   ```
+   cd ai-podcast-studio
+   npm install
+   ```
+
+3. Set up environment variables (see `.env.example`)
+
+4. Run the development server
+   ```
+   npm run dev
+   ```
+
+## 🤝 Contributing
+
+We welcome contributions to AI Podcast Studio! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgements
+
+- [Anthropic](https://www.anthropic.com) for AI assistance in development
+- All the amazing open-source libraries that made this project possible
+
+---
+
+Built with ❤️ by [Your Name]
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
