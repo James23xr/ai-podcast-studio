@@ -45,19 +45,6 @@ Welcome to AI Podcast Studio, the cutting-edge platform that revolutionizes podc
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -81,18 +68,15 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 ## 🤝 Contributing
 
-We welcome contributions to AI Podcast Studio! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions to AI Podcast Studio! 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgements
-
-- [Anthropic](https://www.anthropic.com) for AI assistance in development
 - All the amazing open-source libraries that made this project possible
 
 ---
-
-Built with ❤️ by [Your Name]
+Built with ❤️ by James.
 
